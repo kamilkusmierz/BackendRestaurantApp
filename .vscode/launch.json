@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootJwtAuthenticationApplication<SpringBootJwtAuthentication>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.RestServer.jwtauthentication.SpringBootJwtAuthenticationApplication",
+            "projectName": "SpringBootJwtAuthentication",
+            "args": ""
+        }
+    ]
+}
